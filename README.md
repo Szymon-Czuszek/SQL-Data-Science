@@ -9,7 +9,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 ## Snippet List
 
 1. `BasicSelect.sql`: Retrieves all information about suppliers from the Northwind database.
-2. 
+2. `PartialSelect.sql`: Retrieves partial information about suppliers from the Northwind database.
 
 ## Contributing
 
