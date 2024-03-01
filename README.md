@@ -11,6 +11,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 1. `BasicSelect.sql`: Retrieves all information about suppliers from the Northwind database.
 2. `PartialSelect.sql`: Retrieves partial information about suppliers from the Northwind database.
 3. `SuppliersSortedByCity.sql`: Retrieves information about suppliers sorted by city from the Northwind database.
+4. `Distinct.sql`: Retrieves unique cities where supplier locations are found from the Northwind database.
 
 ## Contributing
 
