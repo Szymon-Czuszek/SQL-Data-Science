@@ -16,6 +16,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 6. `Like.sql`: Retrieves companies whose names start with the letter B from the Northwind database.
 7. `Length.sql`: Retrieves companies whose names are longer than 10 characters from the Northwind database.
 8. `Like%.sql`: Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
+9. `WhereGreaterThan.sql`: Retrieves product names and the quantity needed to purchase in order to exceed the reorder level from the Northwind database.
 
 ## Contributing
 
