@@ -1,0 +1,4 @@
+-- Pokaż produkty, które zostały wycofane.
+SELECT PRODUCT_NAME
+FROM NORTHWIND.PRODUCTS
+WHERE DISCONTINUED = 'Y';
