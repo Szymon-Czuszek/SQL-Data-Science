@@ -1,0 +1,4 @@
+-- Pokaż pracowników urodzonych przed 1980-01-01. 
+SELECT *
+FROM NORTHWIND.EMPLOYEES
+WHERE BIRTHDATE < DATE '1980-01-01';
