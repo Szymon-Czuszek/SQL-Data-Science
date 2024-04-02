@@ -21,6 +21,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 11. `DiscontinuedProducts.sql`: Retrieves the names of products that have been discontinued from the Northwind database.
 12. `BirthdateFilter.sql`: Retrieves employees born before January 1, 1980, from the Northwind database.
 13. `DateComparison.sql`: Checks if the birthdate of employees is greater than their hire date in the Northwind database.
+14. `AverageSalary.sql`: Calculates the average salary of employees in the company, rounding the result to two decimal places.
 
 ## Contributing
 
