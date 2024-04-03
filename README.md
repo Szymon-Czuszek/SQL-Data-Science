@@ -24,6 +24,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 14. `AverageSalary.sql`: Calculates the average salary of employees in the company, rounding the result to two decimal places.
 15. `SalaryStatistics.sql`: Displays the minimum, maximum, and average salary of employees in the company.
 16. `SalesRepresentativeAverageSalary.sql`: Shows the average salary of Sales Representatives in both dollar and local currency formats.
+17. `EmployeeCityCount.sql`: Shows the number of employees per city they reside in from the Northwind database.
 
 ## Contributing
 
