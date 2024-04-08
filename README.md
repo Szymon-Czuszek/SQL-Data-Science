@@ -25,6 +25,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 15. `SalaryStatistics.sql`: Displays the minimum, maximum, and average salary of employees in the company.
 16. `SalesRepresentativeAverageSalary.sql`: Shows the average salary of Sales Representatives in both dollar and local currency formats.
 17. `EmployeeCityCount.sql`: Shows the number of employees per city they reside in from the Northwind database.
+18. `EmployeeCityCountFilter.sql`: Filters cities with more than 2 employees from the Northwind database.
 
 ## Contributing
 
