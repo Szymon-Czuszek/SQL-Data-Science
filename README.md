@@ -27,7 +27,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 17. `EmployeeCityCount.sql`: Shows the number of employees per city they reside in from the Northwind database.
 18. `EmployeeCityCountFilter.sql`: Filters cities with more than 2 employees from the Northwind database.
 19. `BestPay.sql`: Retrieves the three highest-paid employees from the company.
-20. 
+20. `ProductsFromExoticLiquids.sql`: Retrieves products supplied by Exotic Liquids.
 
 ## Contributing
 
