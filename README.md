@@ -29,6 +29,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 19. `BestPay.sql`: Retrieves the three highest-paid employees from the company.
 20. `ProductsFromExoticLiquids.sql`: Retrieves products supplied by Exotic Liquids.
 21. `ProductsFromLekaTradingWithStock.sql`: Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
+22. `OrdersPerCustomer.sql`: Retrieves the number of orders for each customer.
 
 
 ## Contributing
