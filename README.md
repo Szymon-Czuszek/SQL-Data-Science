@@ -30,7 +30,8 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 20. `ProductsFromExoticLiquids.sql`: Retrieves products supplied by Exotic Liquids.
 21. `ProductsFromLekaTradingWithStock.sql`: Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
 22. `OrdersPerCustomer.sql`: Retrieves the number of orders for each customer.
-
+23. `MaxProfitDay2017.sql`: Determines the day in the year 2017 when the company recorded the highest profit.
+24. 
 
 ## Contributing
 
