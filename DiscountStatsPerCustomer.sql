@@ -1,0 +1,14 @@
+-- Show total discount amount, average discount amount, and the number of transactions for each customer.
+SELECT
+   c.CUSTOMER_ID,
+   COUNT(*) AS NUM_TRANSACTIONS,
+   ROUND(SUM(od.DISCOUNT), 2) AS TOTAL_DISCOUNT,
+   ROUND(AVG(od.DISCOUNT), 2) AS AVERAGE_DISCOUNT
+FROM
+   NORTHWIND.ORDERS o
+JOIN
+   NORTHWIND.ORDER_DETAILS od ON o.ORDER_ID = od.ORDER_ID
+JOIN
+   NORTHWIND.CUSTOMERS c ON o.CUSTOMER_ID = c.CUSTOMER_ID
+GROUP BY
+   c.CUSTOMER_ID;
