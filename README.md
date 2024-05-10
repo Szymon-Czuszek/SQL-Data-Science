@@ -35,7 +35,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 25. `ProfitForTofuByDayOfMonth.sql`: Shows how profit for the product Tofu varies by day of the month across all years in the database.
 26. `DiscountStatsPerCustomer.sql`: Shows total discount amount, average discount amount, and the number of transactions for each customer.
 27. `EmployeesWithFewestCustomersQ1_2017.sql`: Identifies the three employees who served the fewest customers in the first quarter of 2017.
-28. 
+28. `FutureServiceAnniversary.sql`: Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
 
 ## Contributing
 
