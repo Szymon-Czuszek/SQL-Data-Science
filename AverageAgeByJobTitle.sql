@@ -1,0 +1,5 @@
+-- Calculate the average age of employees by job titles.
+SELECT TITLE,
+      ROUND(AVG(TRUNC(MONTHS_BETWEEN(SYSDATE, BIRTHDATE) / 12)), 2) AS AVG_AGE
+FROM NORTHWIND.EMPLOYEES
+GROUP BY TITLE;
