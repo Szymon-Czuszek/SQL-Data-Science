@@ -39,6 +39,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 29. `AverageAgeByJobTitle.sql`: Calculates the average age of employees by job titles.
 30. `MostTransactionsPerYearByEmployee.sql`: Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
 31. `ProductWithHighestUnitPrice.sql`: Retrieves the product with the highest unit price.
+32. `ProductWithLeastQuantityInStock.sql`: Retrieves products with the least quantity in stock.
 
 ## Contributing
 
