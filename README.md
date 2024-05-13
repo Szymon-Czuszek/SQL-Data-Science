@@ -41,7 +41,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 31. `ProductWithHighestUnitPrice.sql`: Retrieves the product with the highest unit price.
 32. `ProductWithLeastQuantityInStock.sql`: Retrieves products with the least quantity in stock.
 33. `BeverageWithLeastQuantityInStock.sql`: Finds the beverage with the least quantity in stock.
-34. 
+34. `ProductsBelowAvgBeverageStock.sql`: Finds products with less than the average quantity of beverages in stock.
 
 ## Contributing
 
