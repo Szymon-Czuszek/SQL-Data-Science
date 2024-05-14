@@ -42,6 +42,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 32. `ProductWithLeastQuantityInStock.sql`: Retrieves products with the least quantity in stock.
 33. `BeverageWithLeastQuantityInStock.sql`: Finds the beverage with the least quantity in stock.
 34. `ProductsBelowAvgBeverageStock.sql`: Finds products with less than the average quantity of beverages in stock.
+35. `EmployeesMinMaxSalaryByYear.sql`: FindING employees who earn the least and the most with division by years.
 
 ## Contributing
 
