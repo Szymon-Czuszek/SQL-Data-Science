@@ -45,7 +45,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 35. `EmployeesMinMaxSalaryByYear.sql`: Finding employees who earn the least and the most with division by years.
 36. `CustomerWithHighestTotalDiscount.sql`: Finding the customer who received the highest total discount.
 37. `CustomerWithHighestProductQuantity.sql`: Finding the customer who purchased the highest quantity of a specific product.
-38. 
+38. `CustomerWithMostOrders.sql`: Determining which customer placed the most orders.
 
 ## Contributing
 
