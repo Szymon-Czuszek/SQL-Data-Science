@@ -44,6 +44,8 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 34. `ProductsBelowAvgBeverageStock.sql`: Finds products with less than the average quantity of beverages in stock.
 35. `EmployeesMinMaxSalaryByYear.sql`: Finding employees who earn the least and the most with division by years.
 36. `CustomerWithHighestTotalDiscount.sql`: Finding the customer who received the highest total discount.
+37. `CustomerWithHighestProductQuantity.sql`: Finding the customer who purchased the highest quantity of a specific product.
+38. 
 
 ## Contributing
 
