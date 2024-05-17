@@ -48,6 +48,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 38. `CustomerWithMostOrders.sql`: Determining which customer placed the most orders.
 39. `EmployeeWithMostTransactions2016.sql`: Determining which employee had the most transactions in 2016.
 40. `EmployeesMoreCustomersThanKing.sql`: Determining which employees serve more customers than the employee with the surname "King".
+41. [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculate bonus for employees based on the number of orders they handled in 2017.
 
 ## Contributing
 
