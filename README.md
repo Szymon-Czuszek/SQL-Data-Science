@@ -33,22 +33,23 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 23. `MaxProfitDay2017.sql`: Determines the day in the year 2017 when the company recorded the highest profit.
 24. `SalesProfitByDayOfMonth.sql`: Shows how sales profit varies by day of the month across all years in the database.
 25. `ProfitForTofuByDayOfMonth.sql`: Shows how profit for the product Tofu varies by day of the month across all years in the database.
-26. `DiscountStatsPerCustomer.sql`: Shows total discount amount, average discount amount, and the number of transactions for each customer.
-27. `EmployeesWithFewestCustomersQ1_2017.sql`: Identifies the three employees who served the fewest customers in the first quarter of 2017.
-28. `FutureServiceAnniversary.sql`: Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
-29. `AverageAgeByJobTitle.sql`: Calculates the average age of employees by job titles.
-30. `MostTransactionsPerYearByEmployee.sql`: Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
-31. `ProductWithHighestUnitPrice.sql`: Retrieves the product with the highest unit price.
-32. `ProductWithLeastQuantityInStock.sql`: Retrieves products with the least quantity in stock.
-33. `BeverageWithLeastQuantityInStock.sql`: Finds the beverage with the least quantity in stock.
-34. `ProductsBelowAvgBeverageStock.sql`: Finds products with less than the average quantity of beverages in stock.
-35. `EmployeesMinMaxSalaryByYear.sql`: Finding employees who earn the least and the most with division by years.
-36. `CustomerWithHighestTotalDiscount.sql`: Finding the customer who received the highest total discount.
-37. `CustomerWithHighestProductQuantity.sql`: Finding the customer who purchased the highest quantity of a specific product.
-38. `CustomerWithMostOrders.sql`: Determining which customer placed the most orders.
-39. `EmployeeWithMostTransactions2016.sql`: Determining which employee had the most transactions in 2016.
-40. `EmployeesMoreCustomersThanKing.sql`: Determining which employees serve more customers than the employee with the surname "King".
-41. [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculate bonus for employees based on the number of orders they handled in 2017.
+26. [DiscountStatsPerCustomer.sql](DiscountStatsPerCustomer.sql): Shows total discount amount, average discount amount, and the number of transactions for each customer.
+27. [EmployeesWithFewestCustomersQ1_2017.sql](EmployeesWithFewestCustomersQ1_2017.sql): Identifies the three employees who served the fewest customers in the first quarter of 2017.
+28. [FutureServiceAnniversary.sql](FutureServiceAnniversary.sql): Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
+29. [AverageAgeByJobTitle.sql](AverageAgeByJobTitle.sql): Calculates the average age of employees by job titles.
+30. [MostTransactionsPerYearByEmployee.sql](MostTransactionsPerYearByEmployee.sql): Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
+31. [ProductWithHighestUnitPrice.sql](ProductWithHighestUnitPrice.sql): Retrieves the product with the highest unit price.
+32. [ProductWithLeastQuantityInStock.sql](ProductWithLeastQuantityInStock.sql): Retrieves products with the least quantity in stock.
+33. [BeverageWithLeastQuantityInStock.sql](BeverageWithLeastQuantityInStock.sql): Finds the beverage with the least quantity in stock.
+34. [ProductsBelowAvgBeverageStock.sql](ProductsBelowAvgBeverageStock.sql): Finds products with less than the average quantity of beverages in stock.
+35. [EmployeesMinMaxSalaryByYear.sql](EmployeesMinMaxSalaryByYear.sql): Finding employees who earn the least and the most with division by years.
+36. [CustomerWithHighestTotalDiscount.sql](CustomerWithHighestTotalDiscount.sql): Finding the customer who received the highest total discount.
+37. [CustomerWithHighestProductQuantity.sql](CustomerWithHighestProductQuantity.sql): Finding the customer who purchased the highest quantity of a specific product.
+38. [CustomerWithMostOrders.sql](CustomerWithMostOrders.sql): Determining which customer placed the most orders.
+39. [EmployeeWithMostTransactions2016.sql](EmployeeWithMostTransactions2016.sql): Determining which employee had the most transactions in 2016.
+40. [EmployeesMoreCustomersThanKing.sql](EmployeesMoreCustomersThanKing.sql): Determining which employees serve more customers than the employee with the surname "King".
+41. [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculating bonus for employees based on the number of orders they handled in 2017.
+42. [EmployeeSalesSummary.sql](EmployeeSalesSummary.sql): Generating a summary of sales made by each employee in 2018.
 
 ## Contributing
 
