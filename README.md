@@ -51,6 +51,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 41. [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculating bonus for employees based on the number of orders they handled in 2017.
 42. [EmployeeSalesSummary.sql](EmployeeSalesSummary.sql): Generating a summary of sales made by each employee in 2018.
 43. [CustomerMonthlySales2017.sql](CustomerMonthlySales2017.sql): Generating a summary of monthly sales for each customer in 2017.
+44. [CategoryMonthlySales2017.sql](CategoryMonthlySales2017.sql): Summarizes monthly sales for each product category in 2017.
 
 ## Contributing
 
