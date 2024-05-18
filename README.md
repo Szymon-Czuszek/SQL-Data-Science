@@ -32,7 +32,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 22. `OrdersPerCustomer.sql`: Retrieves the number of orders for each customer.
 23. `MaxProfitDay2017.sql`: Determines the day in the year 2017 when the company recorded the highest profit.
 24. `SalesProfitByDayOfMonth.sql`: Shows how sales profit varies by day of the month across all years in the database.
-25. `ProfitForTofuByDayOfMonth.sql`: Shows how profit for the product Tofu varies by day of the month across all years in the database.
+25. [ProfitForTofuByDayOfMonth.sql](ProfitForTofuByDayOfMonth.sql): Shows how profit for the product Tofu varies by day of the month across all years in the database.
 26. [DiscountStatsPerCustomer.sql](DiscountStatsPerCustomer.sql): Shows total discount amount, average discount amount, and the number of transactions for each customer.
 27. [EmployeesWithFewestCustomersQ1_2017.sql](EmployeesWithFewestCustomersQ1_2017.sql): Identifies the three employees who served the fewest customers in the first quarter of 2017.
 28. [FutureServiceAnniversary.sql](FutureServiceAnniversary.sql): Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
@@ -50,6 +50,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 40. [EmployeesMoreCustomersThanKing.sql](EmployeesMoreCustomersThanKing.sql): Determining which employees serve more customers than the employee with the surname "King".
 41. [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculating bonus for employees based on the number of orders they handled in 2017.
 42. [EmployeeSalesSummary.sql](EmployeeSalesSummary.sql): Generating a summary of sales made by each employee in 2018.
+43. [CustomerMonthlySales2017.sql](CustomerMonthlySales2017.sql): Generating a summary of monthly sales for each customer in 2017.
 
 ## Contributing
 
