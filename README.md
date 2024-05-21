@@ -15,23 +15,23 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 5. `WhereIn.sql`: Retrieves formatted company names from suppliers located in London and Osaka from the Northwind database.
 6. `Like.sql`: Retrieves companies whose names start with the letter B from the Northwind database.
 7. `Length.sql`: Retrieves companies whose names are longer than 10 characters from the Northwind database.
-8. `Like%.sql`: Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
-9. `WhereGreaterThan.sql`: Retrieves product names and the quantity needed to purchase in order to exceed the reorder level from the Northwind database.
-10. `ReorderLevel.sql`: Retrieves product names, supplier addresses, and the quantity of products needed to purchase in order to exceed the reorder level by 100 units from the Northwind database.
-11. `DiscontinuedProducts.sql`: Retrieves the names of products that have been discontinued from the Northwind database.
-12. `BirthdateFilter.sql`: Retrieves employees born before January 1, 1980, from the Northwind database.
-13. `DateComparison.sql`: Checks if the birthdate of employees is greater than their hire date in the Northwind database.
-14. `AverageSalary.sql`: Calculates the average salary of employees in the company, rounding the result to two decimal places.
-15. `SalaryStatistics.sql`: Displays the minimum, maximum, and average salary of employees in the company.
-16. `SalesRepresentativeAverageSalary.sql`: Shows the average salary of Sales Representatives in both dollar and local currency formats.
-17. `EmployeeCityCount.sql`: Shows the number of employees per city they reside in from the Northwind database.
-18. `EmployeeCityCountFilter.sql`: Filters cities with more than 2 employees from the Northwind database.
-19. `BestPay.sql`: Retrieves the three highest-paid employees from the company.
-20. `ProductsFromExoticLiquids.sql`: Retrieves products supplied by Exotic Liquids.
-21. `ProductsFromLekaTradingWithStock.sql`: Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
-22. `OrdersPerCustomer.sql`: Retrieves the number of orders for each customer.
-23. `MaxProfitDay2017.sql`: Determines the day in the year 2017 when the company recorded the highest profit.
-24. `SalesProfitByDayOfMonth.sql`: Shows how sales profit varies by day of the month across all years in the database.
+8. [Like%.sql](Like%.sql): Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
+9. [WhereGreaterThan.sql](WhereGreaterThan.sql): Retrieves product names and the quantity needed to purchase in order to exceed the reorder level from the Northwind database.
+10. [ReorderLevel.sql](ReorderLevel.sql): Retrieves product names, supplier addresses, and the quantity of products needed to purchase in order to exceed the reorder level by 100 units from the Northwind database.
+11. [DiscontinuedProducts.sql](DiscontinuedProducts.sql): Retrieves the names of products that have been discontinued from the Northwind database.
+12. [BirthdateFilter.sql](BirthdateFilter.sql): Retrieves employees born before January 1, 1980, from the Northwind database.
+13. [DateComparison.sql](DateComparison.sql): Checks if the birthdate of employees is greater than their hire date in the Northwind database.
+14. [AverageSalary.sql](AverageSalary.sql): Calculates the average salary of employees in the company, rounding the result to two decimal places.
+15. [SalaryStatistics.sql](SalaryStatistics.sql): Displays the minimum, maximum, and average salary of employees in the company.
+16. [SalesRepresentativeAverageSalary.sql](SalesRepresentativeAverageSalary.sql): Shows the average salary of Sales Representatives in both dollar and local currency formats.
+17. [EmployeeCityCount.sql](EmployeeCityCount.sql): Shows the number of employees per city they reside in from the Northwind database.
+18. [EmployeeCityCountFilter.sql](EmployeeCityCountFilter.sql): Filters cities with more than 2 employees from the Northwind database.
+19. [BestPay.sql](BestPay.sql): Retrieves the three highest-paid employees from the company.
+20. [ProductsFromExoticLiquids.sql](ProductsFromExoticLiquids.sql): Retrieves products supplied by Exotic Liquids.
+21. [ProductsFromLekaTradingWithStock.sql](ProductsFromLekaTradingWithStock.sql): Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
+22. [OrdersPerCustomer.sql](OrdersPerCustomer.sql): Retrieves the number of orders for each customer.
+23. [MaxProfitDay2017.sql](MaxProfitDay2017.sql): Determines the day in the year 2017 when the company recorded the highest profit.
+24. [SalesProfitByDayOfMonth.sql](SalesProfitByDayOfMonth.sql): Shows how sales profit varies by day of the month across all years in the database.
 25. [ProfitForTofuByDayOfMonth.sql](ProfitForTofuByDayOfMonth.sql): Shows how profit for the product Tofu varies by day of the month across all years in the database.
 26. [DiscountStatsPerCustomer.sql](DiscountStatsPerCustomer.sql): Shows total discount amount, average discount amount, and the number of transactions for each customer.
 27. [EmployeesWithFewestCustomersQ1_2017.sql](EmployeesWithFewestCustomersQ1_2017.sql): Identifies the three employees who served the fewest customers in the first quarter of 2017.
@@ -57,6 +57,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 47. [TopBeverageSalesEmployees2018.sql](TopBeverageSalesEmployees2018.sql): Retrieves the top 3 employees by the total sales value of beverages in 2018.
 48. [TopProductsQ1_2017.sql](TopProductsQ1_2017.sql): Retrieves the top 3 products by sales value for the first quarter of 2017.
 49. [RankProductsBySalesValue.sql](RankProductsBySalesValue.sql): Retrieves the ranking of products by their total sales value.
+50. [TopProductsByInvoiceCount.sql](TopProductsByInvoiceCount.sql): Retrieves the top 3 products by the number of invoices they appear on.
 
 ## Contributing
 
