@@ -56,6 +56,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 46. [TopSuppliers2018.sql](TopSuppliers2018.sql): Retrieves the top 3 suppliers based on the total value of their products sold in 2018.
 47. [TopBeverageSalesEmployees2018.sql](TopBeverageSalesEmployees2018.sql): Retrieves the top 3 employees by the total sales value of beverages in 2018.
 48. [TopProductsQ1_2017.sql](TopProductsQ1_2017.sql): Retrieves the top 3 products by sales value for the first quarter of 2017.
+49. [RankProductsBySalesValue.sql](RankProductsBySalesValue.sql): Retrieves the ranking of products by their total sales value.
 
 ## Contributing
 
