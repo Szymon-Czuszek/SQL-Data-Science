@@ -8,14 +8,14 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 
 ## Snippet List
 
-1. `BasicSelect.sql`: Retrieves all information about suppliers from the Northwind database.
-2. `PartialSelect.sql`: Retrieves partial information about suppliers from the Northwind database.
-3. `OrderBy.sql`: Retrieves information about suppliers sorted by city from the Northwind database.
-4. `Distinct.sql`: Retrieves unique cities where supplier locations are found from the Northwind database.
-5. `WhereIn.sql`: Retrieves formatted company names from suppliers located in London and Osaka from the Northwind database.
-6. `Like.sql`: Retrieves companies whose names start with the letter B from the Northwind database.
-7. `Length.sql`: Retrieves companies whose names are longer than 10 characters from the Northwind database.
-8. [Like%.sql](Like%.sql): Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
+1. [BasicSelect.sql](BasicSelect.sql): Retrieves all information about suppliers from the Northwind database.
+2. [PartialSelect.sql](PartialSelect.sql): Retrieves partial information about suppliers from the Northwind database.
+3. [OrderBy.sql](OrderBy.sql): Retrieves information about suppliers sorted by city from the Northwind database.
+4. [Distinct.sql](Distinct.sql): Retrieves unique cities where supplier locations are found from the Northwind database.
+5. [WhereIn.sql](WhereIn.sql): Retrieves formatted company names from suppliers located in London and Osaka from the Northwind database.
+6. [Like.sql](Like.sql): Retrieves companies whose names start with the letter B from the Northwind database.
+7. [Length.sql](Length.sql): Retrieves companies whose names are longer than 10 characters from the Northwind database.
+8. [Like%.sql](Like%25.sql): Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
 9. [WhereGreaterThan.sql](WhereGreaterThan.sql): Retrieves product names and the quantity needed to purchase in order to exceed the reorder level from the Northwind database.
 10. [ReorderLevel.sql](ReorderLevel.sql): Retrieves product names, supplier addresses, and the quantity of products needed to purchase in order to exceed the reorder level by 100 units from the Northwind database.
 11. [DiscontinuedProducts.sql](DiscontinuedProducts.sql): Retrieves the names of products that have been discontinued from the Northwind database.
@@ -58,6 +58,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 48. [TopProductsQ1_2017.sql](TopProductsQ1_2017.sql): Retrieves the top 3 products by sales value for the first quarter of 2017.
 49. [RankProductsBySalesValue.sql](RankProductsBySalesValue.sql): Retrieves the ranking of products by their total sales value.
 50. [TopProductsByInvoiceCount.sql](TopProductsByInvoiceCount.sql): Retrieves the top 3 products by the number of invoices they appear on.
+51. [TransactionsAndSalesByYearAndPosition.sql](TransactionsAndSalesByYearAndPosition.sql): Retrieves transactions count and total sales value by year and employee position.
 
 ## Contributing
 
