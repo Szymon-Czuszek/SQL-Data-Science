@@ -60,6 +60,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 50. [TopProductsByInvoiceCount.sql](TopProductsByInvoiceCount.sql): Retrieves the top 3 products by the number of invoices they appear on.
 51. [TransactionsAndSalesByYearAndPosition.sql](TransactionsAndSalesByYearAndPosition.sql): Retrieves transactions count and total sales value by year and employee position.
 52. [ChangSales.sql](ChangSales.sql): Retrieving sales total for the product "Chang" in category 1, grouped by category, product, and customer company.
+53. [HighestQuantityCustomer.sql](HighestQuantityCustomer.sql): Finding the customer who purchased the highest quantity of a specific product.
 
 ## Contributing
 
