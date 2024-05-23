@@ -61,6 +61,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 51. [TransactionsAndSalesByYearAndPosition.sql](TransactionsAndSalesByYearAndPosition.sql): Retrieves transactions count and total sales value by year and employee position.
 52. [ChangSales.sql](ChangSales.sql): Retrieving sales total for the product "Chang" in category 1, grouped by category, product, and customer company.
 53. [HighestQuantityCustomer.sql](HighestQuantityCustomer.sql): Finding the customer who purchased the highest quantity of a specific product.
+54. [MostOrdersCustomer.sql](MostOrdersCustomer.sql): Determining which customer placed the most orders.
 
 ## Contributing
 
