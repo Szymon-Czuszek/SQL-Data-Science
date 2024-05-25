@@ -65,6 +65,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 55. [TopEmployee2016.sql](TopEmployee2016.sql): Determining which employee conducted the most sales transactions in the year 2016.
 56. [CitiesWithEmployeesButNoCustomers.sql](CitiesWithEmployeesButNoCustomers.sql): Providing cities where NORTHWIND employees live but where no customer resides.
 57. [CompaniesWithOrdersOneMonthBeforeOldestOrder.sql](CompaniesWithOrdersOneMonthBeforeOldestOrder.sql): Providing the names of companies that placed orders one month before the oldest order.
+58. [MaxQuantityOrderedPerProduct.sql](MaxQuantityOrderedPerProduct.sql): Providing the maximum quantity of ordered units for each product.
 
 ## Contributing
 
