@@ -1,0 +1,9 @@
+-- Determine the cheapest product from each supplier
+SELECT
+   SUPPLIER_ID,
+   PRODUCT_ID,
+   MIN(UNIT_PRICE) AS CHEAPEST_PRODUCT_PRICE
+FROM
+   NORTHWIND.PRODUCTS
+GROUP BY
+   SUPPLIER_ID, PRODUCT_ID;
