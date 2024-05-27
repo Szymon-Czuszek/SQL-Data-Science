@@ -68,6 +68,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 58. [MaxQuantityOrderedPerProduct.sql](MaxQuantityOrderedPerProduct.sql): Providing the maximum quantity of ordered units for each product.
 59. [MaxQuantityPerOrderPerCategory.sql](MaxQuantityPerOrderPerCategory.sql): Providing the maximum quantity of ordered products per order for each product category.
 60. [CheapestProductPerSupplier.sql](CheapestProductPerSupplier.sql): Determining the cheapest product from each supplier.
+61. [TopSalesEmployeeByYear.sql](TopSalesEmployeeByYear.sql): Identifying the top sales employee for each year.
 
 ## Contributing
 
