@@ -70,6 +70,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 60. [CheapestProductPerSupplier.sql](CheapestProductPerSupplier.sql): Determining the cheapest product from each supplier.
 61. [TopSalesEmployeeByYear.sql](TopSalesEmployeeByYear.sql): Identifying the top sales employee for each year.
 62. [ShipmentsByCompanyAndYear.sql](ShipmentsByCompanyAndYear.sql): Analysing the performance of shipping companies.
+63. [ShipmentsToDifferentCountries.sql](ShipmentsToDifferentCountries.sql): Determining the number of shipment transactions that were delivered to countries different from the country of origin.
 
 ## Contributing
 
