@@ -74,6 +74,7 @@ Each SQL file contains a specific code snippet. You can use these snippets direc
 64. [ShipmentTransactionsByCompanyAndYear.sql](ShipmentTransactionsByCompanyAndYear.sql): Determine the number of shipment transactions that were delivered to countries different from the country of origin.
 65. [CrossCountryShipmentCount.sql](CrossCountryShipmentCount.sql): Determining the number of shipment transactions that were delivered to countries different from the country of origin.
 66. [CrossCountryShipmentCountByCompanyAndYear.sql](CrossCountryShipmentCountByCompanyAndYear.sql):  Determining the number of shipment transactions that were delivered.
+67. [AverageFreightCostPerShipment.sql](AverageFreightCostPerShipment.sql): Calculating the average freight cost per shipment for each shipping company.
 
 ## Contributing
 
