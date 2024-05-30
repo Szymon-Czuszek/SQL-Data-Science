@@ -1,0 +1,10 @@
+-- Calculate the average freight cost per shipment for each shipping company
+SELECT
+   s.COMPANY_NAME AS SHIPPING_COMPANY,
+   ROUND(AVG(o.FREIGHT), 2) AS AVERAGE_FREIGHT_COST
+FROM
+   NORTHWIND.ORDERS o
+JOIN
+   NORTHWIND.SHIPPERS s ON o.SHIP_VIA = s.SHIPPER_ID
+GROUP BY
+   s.COMPANY_NAME;
