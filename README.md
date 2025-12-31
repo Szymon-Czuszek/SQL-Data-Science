@@ -2,7 +2,7 @@
 
 📊 This repository contains a collection of SQL code snippets for various purposes. Feel free to browse through the snippets and use them in your projects.
 
-## Usage
+## ▶️ Usage
 
 Each SQL file contains a specific code snippet. You can use these snippets directly in your database management system or incorporate them into your projects.
 
