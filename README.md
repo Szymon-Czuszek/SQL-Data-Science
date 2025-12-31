@@ -1,6 +1,6 @@
 # 🗄️ SQL Data Science
 
-This repository contains a collection of SQL code snippets for various purposes. Feel free to browse through the snippets and use them in your projects.
+📊 This repository contains a collection of SQL code snippets for various purposes. Feel free to browse through the snippets and use them in your projects.
 
 ## Usage
 
