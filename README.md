@@ -4,7 +4,7 @@
 
 ## ▶️ Usage
 
-Each SQL file contains a specific code snippet. You can use these snippets directly in your database management system or incorporate them into your projects.
+📄 Each SQL file contains a specific code snippet. You can use these snippets directly in your database management system or incorporate them into your projects.
 
 ## Snippet List
 
