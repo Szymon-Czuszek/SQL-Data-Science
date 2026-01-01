@@ -77,7 +77,7 @@
 67. [AverageFreightCostPerShipment.sql](AverageFreightCostPerShipment.sql): Calculating the average freight cost per shipment for each shipping company.
 68. [AverageFreightCostsDifferentCountry.sql](AverageFreightCostsDifferentCountry.sql): Calculating average freight costs for companies that purchased goods but had the delivery country different from the country where the company is located.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions to this repository are welcome! If you have SQL code snippets that you think would be helpful for others, feel free to submit a pull request.
 
