@@ -8,7 +8,7 @@
 
 ## 🧰 Snippet List
 
-1. [BasicSelect.sql](BasicSelect.sql): Retrieves all information about suppliers from the Northwind database.
+1. 🔍 [BasicSelect.sql](BasicSelect.sql): Retrieves all information about suppliers from the Northwind database.
 2. [PartialSelect.sql](PartialSelect.sql): Retrieves partial information about suppliers from the Northwind database.
 3. [OrderBy.sql](OrderBy.sql): Retrieves information about suppliers sorted by city from the Northwind database.
 4. [Distinct.sql](Distinct.sql): Retrieves unique cities where supplier locations are found from the Northwind database.
