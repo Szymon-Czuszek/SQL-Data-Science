@@ -10,7 +10,7 @@
 
 1. 🔍 [BasicSelect.sql](BasicSelect.sql): Retrieves all information about suppliers from the Northwind database.
 2. 🧩 [PartialSelect.sql](PartialSelect.sql): Retrieves partial information about suppliers from the Northwind database.
-3. [OrderBy.sql](OrderBy.sql): Retrieves information about suppliers sorted by city from the Northwind database.
+3. 🏙️ [OrderBy.sql](OrderBy.sql): Retrieves information about suppliers sorted by city from the Northwind database.
 4. [Distinct.sql](Distinct.sql): Retrieves unique cities where supplier locations are found from the Northwind database.
 5. [WhereIn.sql](WhereIn.sql): Retrieves formatted company names from suppliers located in London and Osaka from the Northwind database.
 6. [Like.sql](Like.sql): Retrieves companies whose names start with the letter B from the Northwind database.
