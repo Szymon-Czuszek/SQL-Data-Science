@@ -15,7 +15,7 @@
 5. 📍 [WhereIn.sql](WhereIn.sql): Retrieves formatted company names from suppliers located in London and Osaka from the Northwind database.
 6. 🔤 [Like.sql](Like.sql): Retrieves companies whose names start with the letter B from the Northwind database.
 7. 📏 [Length.sql](Length.sql): Retrieves companies whose names are longer than 10 characters from the Northwind database.
-8. [Like%.sql](Like%25.sql): Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
+8. 🏠 [Like%.sql](Like%25.sql): Retrieves addresses from suppliers where the address starts with '22' from the Northwind database.
 9. [WhereGreaterThan.sql](WhereGreaterThan.sql): Retrieves product names and the quantity needed to purchase in order to exceed the reorder level from the Northwind database.
 10. [ReorderLevel.sql](ReorderLevel.sql): Retrieves product names, supplier addresses, and the quantity of products needed to purchase in order to exceed the reorder level by 100 units from the Northwind database.
 11. [DiscontinuedProducts.sql](DiscontinuedProducts.sql): Retrieves the names of products that have been discontinued from the Northwind database.
