@@ -22,7 +22,7 @@
 12. 🎂 [BirthdateFilter.sql](BirthdateFilter.sql): Retrieves employees born before January 1, 1980, from the Northwind database.
 13. 📅 [DateComparison.sql](DateComparison.sql): Checks if the birthdate of employees is greater than their hire date in the Northwind database.
 14. 💰 [AverageSalary.sql](AverageSalary.sql): Calculates the average salary of employees in the company, rounding the result to two decimal places.
-15. [SalaryStatistics.sql](SalaryStatistics.sql): Displays the minimum, maximum, and average salary of employees in the company.
+15. 📊 [SalaryStatistics.sql](SalaryStatistics.sql): Displays the minimum, maximum, and average salary of employees in the company.
 16. [SalesRepresentativeAverageSalary.sql](SalesRepresentativeAverageSalary.sql): Shows the average salary of Sales Representatives in both dollar and local currency formats.
 17. [EmployeeCityCount.sql](EmployeeCityCount.sql): Shows the number of employees per city they reside in from the Northwind database.
 18. [EmployeeCityCountFilter.sql](EmployeeCityCountFilter.sql): Filters cities with more than 2 employees from the Northwind database.
