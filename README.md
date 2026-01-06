@@ -25,7 +25,7 @@
 15. 📊 [SalaryStatistics.sql](SalaryStatistics.sql): Displays the minimum, maximum, and average salary of employees in the company.
 16. 💱 [SalesRepresentativeAverageSalary.sql](SalesRepresentativeAverageSalary.sql): Shows the average salary of Sales Representatives in both dollar and local currency formats.
 17. 🏙️ [EmployeeCityCount.sql](EmployeeCityCount.sql): Shows the number of employees per city they reside in from the Northwind database.
-18. [EmployeeCityCountFilter.sql](EmployeeCityCountFilter.sql): Filters cities with more than 2 employees from the Northwind database.
+18. 🔎 [EmployeeCityCountFilter.sql](EmployeeCityCountFilter.sql): Filters cities with more than 2 employees from the Northwind database.
 19. [BestPay.sql](BestPay.sql): Retrieves the three highest-paid employees from the company.
 20. [ProductsFromExoticLiquids.sql](ProductsFromExoticLiquids.sql): Retrieves products supplied by Exotic Liquids.
 21. [ProductsFromLekaTradingWithStock.sql](ProductsFromLekaTradingWithStock.sql): Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
