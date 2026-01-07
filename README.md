@@ -30,7 +30,7 @@
 20. 🧃 [ProductsFromExoticLiquids.sql](ProductsFromExoticLiquids.sql): Retrieves products supplied by Exotic Liquids.
 21. 📦 [ProductsFromLekaTradingWithStock.sql](ProductsFromLekaTradingWithStock.sql): Retrieves products supplied by Leka Trading with a stock quantity of at least 20.
 22. 🧾 [OrdersPerCustomer.sql](OrdersPerCustomer.sql): Retrieves the number of orders for each customer.
-23. [MaxProfitDay2017.sql](MaxProfitDay2017.sql): Determines the day in the year 2017 when the company recorded the highest profit.
+23. 📈 [MaxProfitDay2017.sql](MaxProfitDay2017.sql): Determines the day in the year 2017 when the company recorded the highest profit.
 24. [SalesProfitByDayOfMonth.sql](SalesProfitByDayOfMonth.sql): Shows how sales profit varies by day of the month across all years in the database.
 25. [ProfitForTofuByDayOfMonth.sql](ProfitForTofuByDayOfMonth.sql): Shows how profit for the product Tofu varies by day of the month across all years in the database.
 26. [DiscountStatsPerCustomer.sql](DiscountStatsPerCustomer.sql): Shows total discount amount, average discount amount, and the number of transactions for each customer.
