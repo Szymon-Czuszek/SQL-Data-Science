@@ -35,7 +35,7 @@
 25. 🧀 [ProfitForTofuByDayOfMonth.sql](ProfitForTofuByDayOfMonth.sql): Shows how profit for the product Tofu varies by day of the month across all years in the database.
 26. 🎟️ [DiscountStatsPerCustomer.sql](DiscountStatsPerCustomer.sql): Shows total discount amount, average discount amount, and the number of transactions for each customer.
 27. 🧑‍💼 [EmployeesWithFewestCustomersQ1_2017.sql](EmployeesWithFewestCustomersQ1_2017.sql): Identifies the three employees who served the fewest customers in the first quarter of 2017.
-28. [FutureServiceAnniversary.sql](FutureServiceAnniversary.sql): Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
+28. 🎉 [FutureServiceAnniversary.sql](FutureServiceAnniversary.sql): Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
 29. [AverageAgeByJobTitle.sql](AverageAgeByJobTitle.sql): Calculates the average age of employees by job titles.
 30. [MostTransactionsPerYearByEmployee.sql](MostTransactionsPerYearByEmployee.sql): Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
 31. [ProductWithHighestUnitPrice.sql](ProductWithHighestUnitPrice.sql): Retrieves the product with the highest unit price.
