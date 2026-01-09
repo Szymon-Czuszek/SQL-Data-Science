@@ -37,7 +37,7 @@
 27. 🧑‍💼 [EmployeesWithFewestCustomersQ1_2017.sql](EmployeesWithFewestCustomersQ1_2017.sql): Identifies the three employees who served the fewest customers in the first quarter of 2017.
 28. 🎉 [FutureServiceAnniversary.sql](FutureServiceAnniversary.sql): Determines whether there are employees who will celebrate their 20th, 25th, 30th, or 40th work anniversaries in the upcoming year.
 29. 📐 [AverageAgeByJobTitle.sql](AverageAgeByJobTitle.sql): Calculates the average age of employees by job titles.
-30. [MostTransactionsPerYearByEmployee.sql](MostTransactionsPerYearByEmployee.sql): Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
+30. 🏆 [MostTransactionsPerYearByEmployee.sql](MostTransactionsPerYearByEmployee.sql): Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
 31. [ProductWithHighestUnitPrice.sql](ProductWithHighestUnitPrice.sql): Retrieves the product with the highest unit price.
 32. [ProductWithLeastQuantityInStock.sql](ProductWithLeastQuantityInStock.sql): Retrieves products with the least quantity in stock.
 33. [BeverageWithLeastQuantityInStock.sql](BeverageWithLeastQuantityInStock.sql): Finds the beverage with the least quantity in stock.
