@@ -39,7 +39,7 @@
 29. 📐 [AverageAgeByJobTitle.sql](AverageAgeByJobTitle.sql): Calculates the average age of employees by job titles.
 30. 🏆 [MostTransactionsPerYearByEmployee.sql](MostTransactionsPerYearByEmployee.sql): Retrieves the age, first name, last name, number of transactions, and age of the employee who conducted the most transactions in each year.
 31. 💎 [ProductWithHighestUnitPrice.sql](ProductWithHighestUnitPrice.sql): Retrieves the product with the highest unit price.
-32. [ProductWithLeastQuantityInStock.sql](ProductWithLeastQuantityInStock.sql): Retrieves products with the least quantity in stock.
+32. 📉 [ProductWithLeastQuantityInStock.sql](ProductWithLeastQuantityInStock.sql): Retrieves products with the least quantity in stock.
 33. [BeverageWithLeastQuantityInStock.sql](BeverageWithLeastQuantityInStock.sql): Finds the beverage with the least quantity in stock.
 34. [ProductsBelowAvgBeverageStock.sql](ProductsBelowAvgBeverageStock.sql): Finds products with less than the average quantity of beverages in stock.
 35. [EmployeesMinMaxSalaryByYear.sql](EmployeesMinMaxSalaryByYear.sql): Finding employees who earn the least and the most with division by years.
