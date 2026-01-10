@@ -42,7 +42,7 @@
 32. 📉 [ProductWithLeastQuantityInStock.sql](ProductWithLeastQuantityInStock.sql): Retrieves products with the least quantity in stock.
 33. 🥤 [BeverageWithLeastQuantityInStock.sql](BeverageWithLeastQuantityInStock.sql): Finds the beverage with the least quantity in stock.
 34. 📊 [ProductsBelowAvgBeverageStock.sql](ProductsBelowAvgBeverageStock.sql): Finds products with less than the average quantity of beverages in stock.
-35. [EmployeesMinMaxSalaryByYear.sql](EmployeesMinMaxSalaryByYear.sql): Finding employees who earn the least and the most with division by years.
+35. 💼 [EmployeesMinMaxSalaryByYear.sql](EmployeesMinMaxSalaryByYear.sql): Finding employees who earn the least and the most with division by years.
 36. [CustomerWithHighestTotalDiscount.sql](CustomerWithHighestTotalDiscount.sql): Finding the customer who received the highest total discount.
 37. [CustomerWithHighestProductQuantity.sql](CustomerWithHighestProductQuantity.sql): Finding the customer who purchased the highest quantity of a specific product.
 38. [CustomerWithMostOrders.sql](CustomerWithMostOrders.sql): Determining which customer placed the most orders.
