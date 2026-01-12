@@ -49,7 +49,7 @@
 39. 📅 [EmployeeWithMostTransactions2016.sql](EmployeeWithMostTransactions2016.sql): Determining which employee had the most transactions in 2016.
 40. ⚖️ [EmployeesMoreCustomersThanKing.sql](EmployeesMoreCustomersThanKing.sql): Determining which employees serve more customers than the employee with the surname "King".
 41. 🎁 [EmployeeBonusCalculation.sql](EmployeeBonusCalculation.sql): Calculating bonus for employees based on the number of orders they handled in 2017.
-42. [EmployeeSalesSummary.sql](EmployeeSalesSummary.sql): Generating a summary of sales made by each employee in 2018.
+42. 📑 [EmployeeSalesSummary.sql](EmployeeSalesSummary.sql): Generating a summary of sales made by each employee in 2018.
 43. [CustomerMonthlySales2017.sql](CustomerMonthlySales2017.sql): Generating a summary of monthly sales for each customer in 2017.
 44. [CategoryMonthlySales2017.sql](CategoryMonthlySales2017.sql): Summarizes monthly sales for each product category in 2017.
 45. [EmployeeMonthlyTransactions2017.sql](EmployeeMonthlyTransactions2017.sql): Summarizes monthly transaction counts for each employee in 2017 and calculates cumulative transactions.
