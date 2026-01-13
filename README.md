@@ -55,7 +55,7 @@
 45. 🔄 [EmployeeMonthlyTransactions2017.sql](EmployeeMonthlyTransactions2017.sql): Summarizes monthly transaction counts for each employee in 2017 and calculates cumulative transactions.
 46. 🏭 [TopSuppliers2018.sql](TopSuppliers2018.sql): Retrieves the top 3 suppliers based on the total value of their products sold in 2018.
 47. 🥤 [TopBeverageSalesEmployees2018.sql](TopBeverageSalesEmployees2018.sql): Retrieves the top 3 employees by the total sales value of beverages in 2018.
-48. [TopProductsQ1_2017.sql](TopProductsQ1_2017.sql): Retrieves the top 3 products by sales value for the first quarter of 2017.
+48. 🥇 [TopProductsQ1_2017.sql](TopProductsQ1_2017.sql): Retrieves the top 3 products by sales value for the first quarter of 2017.
 49. [RankProductsBySalesValue.sql](RankProductsBySalesValue.sql): Retrieves the ranking of products by their total sales value.
 50. [TopProductsByInvoiceCount.sql](TopProductsByInvoiceCount.sql): Retrieves the top 3 products by the number of invoices they appear on.
 51. [TransactionsAndSalesByYearAndPosition.sql](TransactionsAndSalesByYearAndPosition.sql): Retrieves transactions count and total sales value by year and employee position.
