@@ -69,7 +69,7 @@
 59. 🧮 [MaxQuantityPerOrderPerCategory.sql](MaxQuantityPerOrderPerCategory.sql): Providing the maximum quantity of ordered products per order for each product category.
 60. 💸 [CheapestProductPerSupplier.sql](CheapestProductPerSupplier.sql): Determining the cheapest product from each supplier.
 61. 🏆 [TopSalesEmployeeByYear.sql](TopSalesEmployeeByYear.sql): Identifying the top sales employee for each year.
-62. [ShipmentsByCompanyAndYear.sql](ShipmentsByCompanyAndYear.sql): Analysing the performance of shipping companies.
+62. 🚢 [ShipmentsByCompanyAndYear.sql](ShipmentsByCompanyAndYear.sql): Analysing the performance of shipping companies.
 63. [ShipmentsToDifferentCountries.sql](ShipmentsToDifferentCountries.sql): Determining the number of shipment transactions that were delivered to countries different from the country of origin.
 64. [ShipmentTransactionsByCompanyAndYear.sql](ShipmentTransactionsByCompanyAndYear.sql): Determine the number of shipment transactions that were delivered to countries different from the country of origin.
 65. [CrossCountryShipmentCount.sql](CrossCountryShipmentCount.sql): Determining the number of shipment transactions that were delivered to countries different from the country of origin.
