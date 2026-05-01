@@ -82,4 +82,6 @@
 - Contributions to this repository are welcome! If you have SQL code snippets that you think would be helpful for others, feel free to submit a pull request.
 
 ## 📜 License
+
 - This repository is licensed under the [MIT License](LICENSE).
+
