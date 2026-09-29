@@ -16,5 +16,6 @@ FROM
 
 -- Group employees by job title so that the average age
 -- is calculated separately for each title.
+-- This allows for clear analysis.
 GROUP BY
     TITLE;
